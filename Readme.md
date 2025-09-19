@@ -28,7 +28,7 @@ The app leverages a **FastAPI backend powered by an OpenAI agent** to deliver in
 ## 📸 App Screenshots
 
 Here are some previews of the Researcher app in action.  
-(Replace these placeholders with your actual screenshots.)
+
 
 <p align="center">
   <img src="screenshots/Thumbnail.png" width="100%" alt="Main Chat Interface Light Theme"/>
